@@ -4227,4 +4227,16 @@
 			}
 
 		}
-		#three, #four, #footer section {display:none}
+
+		#three, #four, #footer section {
+			display:none
+		}
+
+		#banner a {
+			color: white;
+			font-weight: 900;
+			!important
+		}
+
+	
+
